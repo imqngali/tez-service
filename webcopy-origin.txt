@@ -1,0 +1,828 @@
+Uri: https://69ремонт.рф/
+File Name: C:\Downloaded Web Sites\69ремонт.рф\index.htm
+Content Type: text/html
+
+Uri: https://69ремонт.рф/cdn.jsdelivr.net/npm/jquery-form-styler@2.0.2/dist/jquery.formstyler.min.js
+File Name: C:\Downloaded Web Sites\69ремонт.рф\cdn.jsdelivr.net\npm\jquery-form-styler@2.0.2\dist\jquery.formstyler.min.js
+Content Type: application/javascript
+
+Uri: https://69ремонт.рф/cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.min.js
+File Name: C:\Downloaded Web Sites\69ремонт.рф\cdnjs.cloudflare.com\ajax\libs\jquery.maskedinput\1.4.1\jquery.maskedinput.min.js
+Content Type: application/javascript
+
+Uri: https://69ремонт.рф/icon/manifest.json
+File Name: C:\Downloaded Web Sites\69ремонт.рф\icon\manifest.json
+Content Type: application/json
+
+Uri: https://69ремонт.рф/icon/washing_machine_icon_161224-114.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\icon\washing_machine_icon_161224-114.png
+Content Type: image/png
+
+Uri: https://69ремонт.рф/icon/washing_machine_icon_161224-120.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\icon\washing_machine_icon_161224-120.png
+Content Type: image/png
+
+Uri: https://69ремонт.рф/icon/washing_machine_icon_161224-144.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\icon\washing_machine_icon_161224-144.png
+Content Type: image/png
+
+Uri: https://69ремонт.рф/icon/washing_machine_icon_161224-152.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\icon\washing_machine_icon_161224-152.png
+Content Type: image/png
+
+Uri: https://69ремонт.рф/icon/washing_machine_icon_161224-16.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\icon\washing_machine_icon_161224-16.png
+Content Type: image/png
+
+Uri: https://69ремонт.рф/icon/washing_machine_icon_161224-180.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\icon\washing_machine_icon_161224-180.png
+Content Type: image/png
+
+Uri: https://69ремонт.рф/icon/washing_machine_icon_161224-192.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\icon\washing_machine_icon_161224-192.png
+Content Type: image/png
+
+Uri: https://69ремонт.рф/icon/washing_machine_icon_161224-32.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\icon\washing_machine_icon_161224-32.png
+Content Type: image/png
+
+Uri: https://69ремонт.рф/icon/washing_machine_icon_161224-57.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\icon\washing_machine_icon_161224-57.png
+Content Type: image/png
+
+Uri: https://69ремонт.рф/icon/washing_machine_icon_161224-60.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\icon\washing_machine_icon_161224-60.png
+Content Type: image/png
+
+Uri: https://69ремонт.рф/icon/washing_machine_icon_161224-72.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\icon\washing_machine_icon_161224-72.png
+Content Type: image/png
+
+Uri: https://69ремонт.рф/icon/washing_machine_icon_161224-76.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\icon\washing_machine_icon_161224-76.png
+Content Type: image/png
+
+Uri: https://69ремонт.рф/icon/washing_machine_icon_161224-96.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\icon\washing_machine_icon_161224-96.png
+Content Type: image/png
+
+Uri: https://69ремонт.рф/images/bu/indesit_bu.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\images\bu\indesit_bu.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/images/el2.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\images\el2.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/images/ofis/ofis_3.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\images\ofis\ofis_3.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/images/ofis/ofis_4.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\images\ofis\ofis_4.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/images/ofis/ofis_5.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\images\ofis\ofis_5.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/images/ofis/ofis_6.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\images\ofis\ofis_6.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/images/ofis/stiralnie_mashini_bu.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\images\ofis\stiralnie_mashini_bu.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/images/remontirovat_staruju_stiralnuju_mashinu.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\images\remontirovat_staruju_stiralnuju_mashinu.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/images/ul2.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\images\ul2.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/images/ustanovka_stiralnoj_mashiny.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\images\ustanovka_stiralnoj_mashiny.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/images/utilizaciya_stiralnih_mashin.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\images\utilizaciya_stiralnih_mashin.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/images/vas2.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\images\vas2.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/images/zapchasti/ten_bu.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\images\zapchasti\ten_bu.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/images/zapchasti_dlja_stiralnoj_mashinki.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\images\zapchasti_dlja_stiralnoj_mashinki.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/politika.php
+File Name: C:\Downloaded Web Sites\69ремонт.рф\politika.php.html
+Content Type: text/html
+
+Uri: https://69ремонт.рф/remontirovat_staruju_stiralnuju_mashinu.php
+File Name: C:\Downloaded Web Sites\69ремонт.рф\remontirovat_staruju_stiralnuju_mashinu.php.html
+Content Type: text/html
+
+Uri: https://69ремонт.рф/stiralnie_mashini_bu.php
+File Name: C:\Downloaded Web Sites\69ремонт.рф\stiralnie_mashini_bu.php.html
+Content Type: text/html
+
+Uri: https://69ремонт.рф/ustanovka_stiralnoj_mashiny.php
+File Name: C:\Downloaded Web Sites\69ремонт.рф\ustanovka_stiralnoj_mashiny.php.html
+Content Type: text/html
+
+Uri: https://69ремонт.рф/utilizaciya_stiralnih_mashin.php
+File Name: C:\Downloaded Web Sites\69ремонт.рф\utilizaciya_stiralnih_mashin.php.html
+Content Type: text/html
+
+Uri: https://69ремонт.рф/wp-content/cache/busting/1/wp-includes/js/jquery/jquery-1.12.4-wp.js
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\cache\busting\1\wp-includes\js\jquery\jquery-1.12.4-wp.js
+Content Type: application/javascript
+
+Uri: https://69ремонт.рф/wp-content/cache/busting/1/wp-includes/js/jquery/jquery-migrate.min-1.4.1.js
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\cache\busting\1\wp-includes\js\jquery\jquery-migrate.min-1.4.1.js
+Content Type: application/javascript
+
+Uri: https://69ремонт.рф/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/css/styles-c909967f849882b678c972a67822e143.css
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\cache\min\1\wp-content\plugins\contact-form-7\includes\css\styles-c909967f849882b678c972a67822e143.css
+Content Type: text/css
+
+Uri: https://69ремонт.рф/wp-content/cache/min/1/wp-content/themes/fixplace/fonts/fonts-3a828b80c7c2933a92a6693d88a4711e.css
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\cache\min\1\wp-content\themes\fixplace\fonts\fonts-3a828b80c7c2933a92a6693d88a4711e.css
+Content Type: text/css
+
+Uri: https://69ремонт.рф/wp-content/cache/min/1/wp-content/themes/fixplace/js/jquery.formstyler-b77a99834a5b1306d6c0dadd2fc4bd4c.css
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\cache\min\1\wp-content\themes\fixplace\js\jquery.formstyler-b77a99834a5b1306d6c0dadd2fc4bd4c.css
+Content Type: text/css
+
+Uri: https://69ремонт.рф/wp-content/cache/min/1/wp-content/themes/fixplace/js/jquery.formstyler.theme-6c97174e53696168fc24b7942e60cec4.css
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\cache\min\1\wp-content\themes\fixplace\js\jquery.formstyler.theme-6c97174e53696168fc24b7942e60cec4.css
+Content Type: text/css
+
+Uri: https://69ремонт.рф/wp-content/cache/min/1/wp-content/themes/fixplace/js/slick-a937893e9d7c420f77dae44c5e8c9430.css
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\cache\min\1\wp-content\themes\fixplace\js\slick-a937893e9d7c420f77dae44c5e8c9430.css
+Content Type: text/css
+
+Uri: https://69ремонт.рф/wp-content/cache/min/1/wp-content/themes/fixplace/style-13df521340e868ee1e6c5d7bff426cef.css
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\cache\min\1\wp-content\themes\fixplace\style-13df521340e868ee1e6c5d7bff426cef.css
+Content Type: text/css
+
+Uri: https://69ремонт.рф/wp-content/cache/min/1/wp-content/themes/fixplace/style320-db2bb611b012ebcbb2a65b61911beed3.css
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\cache\min\1\wp-content\themes\fixplace\style320-db2bb611b012ebcbb2a65b61911beed3.css
+Content Type: text/css
+
+Uri: https://69ремонт.рф/wp-content/cache/min/1/wp-content/themes/fixplace/style760-bcfb20ed9ebd590a50bb0c29540a9b77.css
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\cache\min\1\wp-content\themes\fixplace\style760-bcfb20ed9ebd590a50bb0c29540a9b77.css
+Content Type: text/css
+
+Uri: https://69ремонт.рф/wp-content/cache/min/1/wp-content/themes/fixplace/style980-13755de783ca68a47f58bc923bf608aa.css
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\cache\min\1\wp-content\themes\fixplace\style980-13755de783ca68a47f58bc923bf608aa.css
+Content Type: text/css
+
+Uri: https://69ремонт.рф/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://69ремонт.рф/wp-content/plugins/wp-rocket/assets/img/youtube.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\plugins\wp-rocket\assets\img\youtube.png
+Content Type: image/png
+
+Uri: https://69ремонт.рф/wp-content/plugins/wp-rocket/assets/js/lazyload/11.0.6/lazyload.min.js
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\plugins\wp-rocket\assets\js\lazyload\11.0.6\lazyload.min.js
+Content Type: application/javascript
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-35Light.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-35Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-35Light.ttf
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-35Light.ttf
+Content Type: font/ttf
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-35Light.woff
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-35Light.woff
+Content Type: font/woff
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-35Light.woff2
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-35Light.woff2
+Content Type: font/woff2
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-35Lightd41dd41d.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-35Lightd41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-35LightIt.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-35LightIt.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-35LightIt.ttf
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-35LightIt.ttf
+Content Type: font/ttf
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-35LightIt.woff
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-35LightIt.woff
+Content Type: font/woff
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-35LightIt.woff2
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-35LightIt.woff2
+Content Type: font/woff2
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-35LightItd41dd41d.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-35LightItd41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-45Regular.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-45Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-45Regular.ttf
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-45Regular.ttf
+Content Type: font/ttf
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-45Regular.woff
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-45Regular.woff
+Content Type: font/woff
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-45Regular.woff2
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-45Regular.woff2
+Content Type: font/woff2
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-45Regulard41dd41d.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-45Regulard41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-65Bold.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-65Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-65Bold.ttf
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-65Bold.ttf
+Content Type: font/ttf
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-65Bold.woff
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-65Bold.woff
+Content Type: font/woff
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-65Bold.woff2
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-65Bold.woff2
+Content Type: font/woff2
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-65Boldd41dd41d.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-65Boldd41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-65BoldIt.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-65BoldIt.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-65BoldIt.ttf
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-65BoldIt.ttf
+Content Type: font/ttf
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-65BoldIt.woff
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-65BoldIt.woff
+Content Type: font/woff
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-65BoldIt.woff2
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-65BoldIt.woff2
+Content Type: font/woff2
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-CoreSansE-65BoldItd41dd41d.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-CoreSansE-65BoldItd41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-UniviaPro-Black.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-UniviaPro-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-UniviaPro-Black.ttf
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-UniviaPro-Black.ttf
+Content Type: font/ttf
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-UniviaPro-Black.woff
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-UniviaPro-Black.woff
+Content Type: font/woff
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-UniviaPro-Black.woff2
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-UniviaPro-Black.woff2
+Content Type: font/woff2
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-UniviaPro-Blackd41dd41d.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-UniviaPro-Blackd41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-UniviaPro-Bold.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-UniviaPro-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-UniviaPro-Bold.ttf
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-UniviaPro-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-UniviaPro-Bold.woff
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-UniviaPro-Bold.woff
+Content Type: font/woff
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-UniviaPro-Bold.woff2
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-UniviaPro-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/fonts/subset-UniviaPro-Boldd41dd41d.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\fonts\subset-UniviaPro-Boldd41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/back_top.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\back_top.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/besp1.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\besp1.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/besp2.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\besp2.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/besp3.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\besp3.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/bg.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/btn_i1.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\btn_i1.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/btn_i2.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\btn_i2.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/btn_i3.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\btn_i3.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/close.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\close.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/home_top_m.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\home_top_m.png
+Content Type: image/png
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/hows.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\hows.png
+Content Type: image/png
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/how_sep1.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\how_sep1.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/how_sep2.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\how_sep2.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/how_sep3.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\how_sep3.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/how_sep4.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\how_sep4.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/how_sep5.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\how_sep5.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/map_loc.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\map_loc.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/map_loc_b.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\map_loc_b.png
+Content Type: image/png
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/mashink.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\mashink.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/mashink_o.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\mashink_o.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/modal.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\modal.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/preim1.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\preim1.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/preim2.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\preim2.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/preim3.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\preim3.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/sel.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\sel.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/than.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\than.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/thans.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\thans.png
+Content Type: image/png
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/top_tel.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\top_tel.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/video.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\video.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/vizov.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\vizov.png
+Content Type: image/png
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/why1.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\why1.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/why2.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\why2.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/why3.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\why3.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/images/why4.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\images\why4.svg
+Content Type: image/svg+xml
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/js/countdown.js
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\js\countdown.js
+Content Type: application/javascript
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/js/custom.js
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\js\custom.js
+Content Type: application/javascript
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/js/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\js\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/js/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\js\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://69ремонт.рф/wp-content/themes/fixplace/js/slick.min.js
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\themes\fixplace\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/Image-1.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\Image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/Image-10-60x60.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\Image-10-60x60.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/Image-11-160x56.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\Image-11-160x56.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/Image-12.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\Image-12.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/Image-13.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\Image-13.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/Image-14.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\Image-14.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/Image-15.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\Image-15.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/Image-2-60x60.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\Image-2-60x60.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/Image-3.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\Image-3.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/Image-4.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\Image-4.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/Image-5.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\Image-5.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/Image-6-106x60.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\Image-6-106x60.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/Image-7-120x60.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\Image-7-120x60.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/Image-8-106x60.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\Image-8-106x60.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/Image-9-124x60.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\Image-9-124x60.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/price1-300x230.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\price1-300x230.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/price2-300x230.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\price2-300x230.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/price3-300x230.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\price3-300x230.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/price4-300x230.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\price4-300x230.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/price5-300x230_2.jpeg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\price5-300x230_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/price6-300x230.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\price6-300x230.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/price7-300x230.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\price7-300x230.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-content/uploads/2019/08/price8-300x230.jpg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-content\uploads\2019\08\price8-300x230.jpg
+Content Type: image/jpeg
+
+Uri: https://69ремонт.рф/wp-includes/css/dist/block-library/style.min.css
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://69ремонт.рф/wp-includes/js/comment-reply.min.js
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://69ремонт.рф/wp-includes/js/wp-embed.min.js
+File Name: C:\Downloaded Web Sites\69ремонт.рф\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://69ремонт.рф/zapchasti_dlja_stiralnoj_mashinki.php
+File Name: C:\Downloaded Web Sites\69ремонт.рф\zapchasti_dlja_stiralnoj_mashinki.php.html
+Content Type: text/html
+
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:3a233fe43bea3c7dd535b4e5d1064c0248aaf4698c622186257946a884cbf73d&width=100%25&height=515&lang=ru_RU&scroll=true
+File Name: C:\Downloaded Web Sites\69ремонт.рф\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://cdn.envybox.io/widget/cbk.css
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\cbk.css
+Content Type: text/css
+
+Uri: https://cdn.envybox.io/widget/cbk.js?wcb_code=08959d9b94423b5efe327cf4fe3ece8b
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\cbk.js
+Content Type: application/javascript
+
+Uri: https://content.saas-support.com/widget/fonts/museo/MuseoSansCyrl_500.otf
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\fonts\museo\MuseoSansCyrl_500.otf
+Content Type: application/octet-stream
+
+Uri: https://content.saas-support.com/widget/fonts/museo/MuseoSansCyrl_900.otf
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\fonts\museo\MuseoSansCyrl_900.otf
+Content Type: application/octet-stream
+
+Uri: https://content.saas-support.com/widget/fonts/open-sans/OpenSans-Regular.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\fonts\open-sans\OpenSans-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://content.saas-support.com/widget/fonts/open-sans/OpenSans-Regular.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\fonts\open-sans\OpenSans-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://content.saas-support.com/widget/fonts/open-sans/OpenSans-Regular.ttf
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\fonts\open-sans\OpenSans-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://content.saas-support.com/widget/fonts/open-sans/OpenSans-Regular.woff
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\fonts\open-sans\OpenSans-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://content.saas-support.com/widget/fonts/open-sans/OpenSans-Regular.woff2
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\fonts\open-sans\OpenSans-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://content.saas-support.com/widget/fonts/roboto/RobotoLight.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\fonts\roboto\RobotoLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://content.saas-support.com/widget/fonts/roboto/RobotoLight.ttf
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\fonts\roboto\RobotoLight.ttf
+Content Type: application/octet-stream
+
+Uri: https://content.saas-support.com/widget/fonts/roboto/RobotoLight.woff
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\fonts\roboto\RobotoLight.woff
+Content Type: application/font-woff
+
+Uri: https://content.saas-support.com/widget/fonts/roboto/RobotoRegular.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\fonts\roboto\RobotoRegular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://content.saas-support.com/widget/fonts/roboto/RobotoRegular.ttf
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\fonts\roboto\RobotoRegular.ttf
+Content Type: application/octet-stream
+
+Uri: https://content.saas-support.com/widget/fonts/roboto/RobotoRegular.woff
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\fonts\roboto\RobotoRegular.woff
+Content Type: application/font-woff
+
+Uri: https://content.saas-support.com/widget/fonts/times-new-roman/TimesNewRoman.ttf
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\fonts\times-new-roman\TimesNewRoman.ttf
+Content Type: application/octet-stream
+
+Uri: https://mc.yandex.ru/watch/91406803
+File Name: C:\Downloaded Web Sites\69ремонт.рф\watch\91406803
+Content Type: image/gif
+
+Uri: https://saas-support.com/widget/img/rating/24/smile_1.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\img\rating\24\smile_1.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/24/smile_2.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\img\rating\24\smile_2.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/24/smile_3.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\img\rating\24\smile_3.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/24/smile_4.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\img\rating\24\smile_4.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/24/smile_5.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\img\rating\24\smile_5.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/24/star.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\img\rating\24\star.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/32/smile_1.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\img\rating\32\smile_1.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/32/smile_2.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\img\rating\32\smile_2.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/32/smile_3.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\img\rating\32\smile_3.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/32/smile_4.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\img\rating\32\smile_4.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/32/smile_5.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\img\rating\32\smile_5.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/32/star.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\img\rating\32\star.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/smiles.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\img\rating\smiles.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/smiles/sprite_smiles.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\img\smiles\sprite_smiles.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/sprite_social.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\img\sprite_social.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/sprite_social_mobile.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\img\sprite_social_mobile.png
+Content Type: image/png
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/css/all.css
+File Name: C:\Downloaded Web Sites\69ремонт.рф\releases\v5.5.0\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\releases\v5.5.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\69ремонт.рф\releases\v5.5.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\releases\v5.5.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\69ремонт.рф\releases\v5.5.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\69ремонт.рф\releases\v5.5.0\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\69ремонт.рф\releases\v5.5.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\releases\v5.5.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\69ремонт.рф\releases\v5.5.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\releases\v5.5.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\69ремонт.рф\releases\v5.5.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\69ремонт.рф\releases\v5.5.0\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\69ремонт.рф\releases\v5.5.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\69ремонт.рф\releases\v5.5.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\69ремонт.рф\releases\v5.5.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\69ремонт.рф\releases\v5.5.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\69ремонт.рф\releases\v5.5.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\69ремонт.рф\releases\v5.5.0\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\69ремонт.рф\releases\v5.5.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://whitesaas.com/widget/img/dl.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\img\dl.png
+Content Type: image/png
+
+Uri: https://whitesaas.com/widget/img/im_emoji.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\img\im_emoji.png
+Content Type: image/png
+
+Uri: https://whitesaas.com/widget/img/show.png
+File Name: C:\Downloaded Web Sites\69ремонт.рф\widget\img\show.png
+Content Type: image/png
+
